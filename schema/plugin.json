@@ -4,8 +4,8 @@
   "jupyter.lab.toolbars": {
     "TopBar": [
       {
-        "name": "controlbtn",
-        "command": "jupyterlab-topbar:controlbtn",
+        "name": "homebtn",
+        "command": "jupyterlab-topbar:homebtn",
         "rank": 200
       }
     ]
