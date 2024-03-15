@@ -1,0 +1,16 @@
+{
+  "title": "User Menu Bar",
+  "description": "User Menu Bar settings.",
+  "jupyter.lab.toolbars": {
+    "TopBar": [
+      {
+        "name": "controlbtn",
+        "command": "jupyterlab-topbar:controlbtn",
+        "rank": 200
+      }
+    ]
+  },
+  "properties": {},
+  "additionalProperties": false,
+  "type": "object"
+}
