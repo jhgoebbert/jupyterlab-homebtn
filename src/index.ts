@@ -4,8 +4,6 @@ import {
   IRouter,
 } from '@jupyterlab/application';
 
-import { Widget } from '@lumino/widgets';
-
 import '@jupyterlab/application/style/buttons.css';
 
 import '../style/index.css';
